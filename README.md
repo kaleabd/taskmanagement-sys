@@ -34,3 +34,4 @@ npm run dev
 - Edit tasks to update their completed tasks
 - Delete tasks that are no longer needed
 - User Authentication
+- Cloud Storage
